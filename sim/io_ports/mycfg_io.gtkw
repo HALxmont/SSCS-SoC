@@ -1,0 +1,34 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Tue Nov  2 01:20:13 2021
+[*]
+[dumpfile] "/home/mxmont/Documents/Universidad/IC-UBB/simulacion/SSCS-SoC/sim/io_ports/io_ports.vcd"
+[dumpfile_mtime] "Tue Nov  2 01:06:08 2021"
+[dumpfile_size] 552951756
+[savefile] "/home/mxmont/Documents/Universidad/IC-UBB/simulacion/SSCS-SoC/sim/io_ports/mycfg_io.gtkw"
+[timestart] 121070700
+[size] 1880 1016
+[pos] -39 -39
+*-16.439993 106062500 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] io_ports_tb.
+[treeopen] io_ports_tb.uut.
+[treeopen] io_ports_tb.uut.mprj.
+[treeopen] io_ports_tb.uut.mprj.SoCTopModule.
+[treeopen] io_ports_tb.uut.soc.soc.
+[sst_width] 320
+[signals_width] 184
+[sst_expanded] 1
+[sst_vpaned_height] 498
+@800022
+io_ports_tb.uut.mprj_io[37:0]
+@200
+-
+@29
+(37)io_ports_tb.uut.mprj_io[37:0]
+@28
+io_ports_tb.uut.mprj.SoCTopModule.mic.clk
+io_ports_tb.uut.mprj.SoCTopModule.mic.mclk
+@1001200
+-group_end
+[pattern_trace] 1
+[pattern_trace] 0
